@@ -1,0 +1,23 @@
+{
+    "inputs": [
+		"Physostigmine glycolate",
+		"Famotidine",
+		"Metronidazole",
+		"Prednisolone",
+		"Meloxicam",
+		"Carvedilol",
+		"Itopride hydrochloridre",
+		"Betahistin dihydrochloride",
+		"Chlorzoxazone",
+		"Rizatriptan benzoate",
+		"Candersatan cilexetil",
+		"Metoprolol",
+		"Domperidone"
+    ],
+    "outputs": [
+        "solubility",
+        "density",
+        "particle size distribution",
+        "porosity"
+    ]
+}

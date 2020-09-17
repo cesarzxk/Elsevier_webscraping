@@ -1,0 +1,41 @@
+{
+    "inputs": [
+        "Amlodipine",
+        "Ketorolac",
+        "Diclofenac potassium",
+        "Montelukast",
+        "Rifaximin",
+        "Atorvastatin",
+        "Metoclopramide",
+        "Rosuvastatin",
+        "Azelnidipine",
+        "Propafenone",
+        "Carbamazepine",
+        "Tadalafil",
+        "Risperidone",
+        "Propranolol",
+        "Carbinoxamine",
+        "Sildenafil citrate",
+        "Ibuprofen",
+        "Levosulpyride",
+        "Warfarin",
+        "Caffeine",
+        "Resveratrol",
+        "Carvedilol",
+        "Prednisolone",
+        "Meloxicam",
+        "Itopride",
+        "Betahistine",
+        "Chlorzoxazone",
+        "Rhizatriptan",
+        "Candesartan",
+        "Metoprolol",
+        "Domperidone"
+    ],
+    "outputs": [
+        "solubility",
+        "density",
+        "particle size distribution",
+        "porosity"
+    ]
+}
