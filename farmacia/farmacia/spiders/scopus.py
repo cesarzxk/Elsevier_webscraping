@@ -131,7 +131,6 @@ class ScopusSpider(BaseSpider) :
             srcView = None
 
         item['view-in-source'] = srcView
-        print(srcView)
 
         meta = {
             'item' : item,
