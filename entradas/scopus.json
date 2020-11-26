@@ -1,0 +1,8 @@
+{
+  "busca": "( ( TITLE-ABS-KEY ( tenofovir )  AND  TITLE-ABS-KEY ( lamivudine )  AND  TITLE-ABS-KEY ( efavirenz ) )  OR  ( TITLE-ABS-KEY ( fixed-dose  AND combin* )  OR  TITLE-ABS-KEY ( fdc ) ) )  " ,
+  "api-key": "9f99fc50cb7f2098d8b3bdaf7aeeee4e",
+  "count": 1000
+}
+
+
+
