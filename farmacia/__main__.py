@@ -1,4 +1,4 @@
-@César Vargas dos Santos e Daniel Vargas Dos Santos CEDERJ 2020.1
+@César Vargas dos Santos e Daniel Vargas Dos Santos CEDERJ 2020.2
 import sys
 import argparse
 import textwrap
