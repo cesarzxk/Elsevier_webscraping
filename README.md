@@ -25,7 +25,7 @@ pip install .\farmacia
 
 ## Como executar a aplicação (console)
 
-Digte no console
+Digite no console
 
 ```console
 python farmacia scopus configfile [-h] [--tipo csv] [--saida SAIDA]
