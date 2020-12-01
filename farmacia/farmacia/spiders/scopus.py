@@ -1,4 +1,4 @@
-@César Vargas dos Santos e Daniel Vargas Dos Santos CEDERJ 2020.2
+#César Vargas dos Santos e Daniel Vargas Dos Santos CEDERJ 2020.2
 # -*- coding: utf-8 -*-
 import scrapy
 import urllib.parse
