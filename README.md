@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Python
 - Scrapy
 - REST
-- [VS Code]()
+- [VS Code](https://code.visualstudio.com/)
 
 ## :information_source: Como Instalar
 Para clonar essa aplicação você precisará do [Git](https://git-scm.com) instalado em seu computador.
