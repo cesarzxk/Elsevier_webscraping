@@ -10,8 +10,8 @@ de medicamentos.
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- Python
-- Scrapy
+- [Python](https://www.python.org/)
+- [Scrapy](https://scrapy.org/)
 - REST
 - [VS Code](https://code.visualstudio.com/)
 
