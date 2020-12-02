@@ -1,42 +1,46 @@
-## CEDERJ 2020.2 - CÉSAR VARGAS DOS SANTOS E DANIEL VARGAS DOS SANTOS
+# CEDERJ 2020.2 - CÉSAR VARGAS DOS SANTOS E DANIEL VARGAS DOS SANTOS
 
-COLETA DIRECIONADA DE DADOS DA _INTERNET_ ATRAVÉS DE MECANISMOS 
-DE AUTOMAÇÃO (_WEB SCRAPING_) COM FOCO EM ASPECTOS DA COMPOSIÇÃO 
-E DA FORMULAÇÃO DE MEDICAMENTOS
+Aplicação voltada a coleta de dados da _Internet_
+através de mecanismo de automação (_Web Scraping_)
+com foco em aspectos da composição e da formulação
+de medicamentos.
 
-Este repositório contém uma implementação de _software_ para coleta 
-direcionada e automatizada de dados da _internet_ e uma aplicação
-desta implementação voltada para a pesquisa de aspectos específicos
-da composição e da formulação de medicamentos.
 
-<br />
-## Será gerado automáticamente um arquivo 'erros.json' contendo os dados coletados caso ocorra alguma excessão.
+## :rocket:Tecnologias
 
-<br/>
-## Como instalar (console)
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-Instale o pacote Python (e todas as dependências):
+- Python
+- Scrapy
+- REST
+- [VS Code][vc]
 
-```console
-pip install .\farmacia
+## :information_source: Como Instalar
+Para clonar essa aplicação você precisará do [Git](https://git-scm.com) instalado em seu computador.
+
+```bash
+# Instale as dependências
+$ pip install requests
+
+# Clone this repository
+$ git clone https://github.com/altobellibm/CEDERJ_2020_DANIEL_VARGAS_CEZAR_SANTOS
+
+# Instale a aplicação
+$ pip install ./farmacia
+
+# Rode a aplicação
+$ python farmacia scopus configfile [-h] [--tipo csv] [--saida SAIDA]
+
+# Exemplo
+$ python farmacia scopus entradas\scopus.json --saida=resultado-scopus --tipo=csv
+
 ```
+Argumentos opcionais:
 
-<br />
+* **[-h]** Mostra uma mensagem de ajuda e sai.
+* **[--saida SAIDA]** --saida NOME_DO_ARQUIVO_DE_SAIDA  - Default $(nome do site).csv
 
-## Como executar a aplicação (console)
+Caso haja algum erro, será gerado automáticamente um arquivo 'erros.json' contendo os dados coletados.
 
-Digite no console
-
-```console
-python farmacia scopus configfile [-h] [--tipo csv] [--saida SAIDA]
-```
-argumentos opcionais:<br/>
-  * **-h, --help**:         show this help message and exit
-  * **--saida SAIDA**:      Nome do arquivo que será gerado com os resultados. Default = $(nome do site).csv
-
-Exemplos de uso:
-```console
-python farmacia scopus entradas\scopus.json --saida=resultado-scopus --tipo=csv
-```
-<br />
-
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
