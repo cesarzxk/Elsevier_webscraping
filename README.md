@@ -6,29 +6,29 @@ com foco em aspectos da composição e da formulação
 de medicamentos.
 
 
-## :rocket:Tecnologias
+## :rocket: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Python
 - Scrapy
 - REST
-- [VS Code][vc]
+- [VS Code]()
 
 ## :information_source: Como Instalar
 Para clonar essa aplicação você precisará do [Git](https://git-scm.com) instalado em seu computador.
 
 ```bash
-# Instale as dependências
+# Instalar as dependências
 $ pip install requests
 
-# Clone this repository
+# Clonar o repositório
 $ git clone https://github.com/altobellibm/CEDERJ_2020_DANIEL_VARGAS_CEZAR_SANTOS
 
-# Instale a aplicação
+# Instalar a aplicação
 $ pip install ./farmacia
 
-# Rode a aplicação
+# Rodar a aplicação
 $ python farmacia scopus configfile [-h] [--tipo csv] [--saida SAIDA]
 
 # Exemplo
@@ -42,5 +42,5 @@ Argumentos opcionais:
 
 Caso haja algum erro, será gerado automáticamente um arquivo 'erros.json' contendo os dados coletados.
 
-## :memo: License
+## :memo: Licença
 This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
