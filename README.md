@@ -23,7 +23,7 @@ Para clonar essa aplicação você precisará do [Git](https://git-scm.com) inst
 $ pip install requests
 
 # Clonar o repositório
-$ git clone https://github.com/altobellibm/CEDERJ_2020_DANIEL_VARGAS_CEZAR_SANTOS
+$ git clone https://github.com/altobellibm/CEDERJ_2020_DANIEL_VARGAS_CESAR_SANTOS
 
 # Instalar a aplicação
 $ pip install ./farmacia
