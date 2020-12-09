@@ -1,5 +1,0 @@
-{
-    "busca": "TITLE-ABS-KEY(\"tablet\") AND TITLE-ABS-KEY(\"direct compression\") AND TITLE-ABS-KEY(\"hardness\") AND PUBYEAR > 2009   ",
-	"api-key": "7d28999d174bb348865941e4c567f0cf",
-    "count": 0
-}
